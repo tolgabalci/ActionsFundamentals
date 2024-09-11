@@ -1,7 +1,10 @@
 # GitHub Actions Fundamentals
 
 Tolga's change #1
+
 Tolga's change #2
+
+Tolga's change #3, this time in a branch
 
 
 Repo for the `GitHub Actions Fundamentals` training.
